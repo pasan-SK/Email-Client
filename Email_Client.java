@@ -1,7 +1,5 @@
 package oopAssignment;
 
-// My index number - 190290U 
-
 
 //import libraries
 import java.io.BufferedReader;
